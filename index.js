@@ -19,3 +19,4 @@ class Dinner{
   this._entree=entree;
 }
 }
+let dinner = new dinner("salad", "soup", "entree", "dessert")
